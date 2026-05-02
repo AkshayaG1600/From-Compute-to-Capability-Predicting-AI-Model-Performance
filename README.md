@@ -1,0 +1,2 @@
+# From-Compute-to-Capability-Predicting-AI-Model-Performance
+The rapid growth of artificial intelligence has led to increasingly complex models requiring significant computational resources. While larger models often promise higher accuracy, they also introduce challenges. This project explore the relationships between model performance, training cost, infrastructure usage, and inference efficiency. 
